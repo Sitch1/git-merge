@@ -3,3 +3,5 @@
 GitHub Merge
 
 Grundbefehele von Git und deren verbindung zu GitHub
+
+Merge Conflict
